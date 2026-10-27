@@ -42,6 +42,6 @@ Ce projet a permis de pratiquer :
 
 ## 🔗 Démo
 
-Ajoutez ici le lien GitHub Pages du projet :
+Ajoutez ici le lien GitHub Pages du projet :https://manasse-tech.github.io/landing-page/
 
 ## 👨‍💻 Auteur Projet réalisé par ``Manasse-tech`` dans le cadre du cursus The Odin Project.
